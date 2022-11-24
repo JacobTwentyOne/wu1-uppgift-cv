@@ -1,9 +1,7 @@
 # Loggbok för CV
 
-Här skriver jag en planering för mitt CV.
-Sedan skriver jag kring mitt arbete och hur det gick.
-
-Skriv en kort planering först.
+Jag tänker göra en sida med mitt cv jag skrev på engelskan, jag kan ge den ett "breaking bad" ish tema eftersom mitt cv handlar om walter white.
+Jag kan kanske sätta någon musik som passar om det inte distraherar från själva cv et 
 
 ## Planering
 
